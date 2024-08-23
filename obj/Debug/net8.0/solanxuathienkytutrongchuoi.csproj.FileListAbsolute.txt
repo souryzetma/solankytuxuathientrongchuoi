@@ -1,0 +1,14 @@
+E:\solanxuathienkytutrongchuoi\bin\Debug\net8.0\solanxuathienkytutrongchuoi.exe
+E:\solanxuathienkytutrongchuoi\bin\Debug\net8.0\solanxuathienkytutrongchuoi.deps.json
+E:\solanxuathienkytutrongchuoi\bin\Debug\net8.0\solanxuathienkytutrongchuoi.runtimeconfig.json
+E:\solanxuathienkytutrongchuoi\bin\Debug\net8.0\solanxuathienkytutrongchuoi.dll
+E:\solanxuathienkytutrongchuoi\bin\Debug\net8.0\solanxuathienkytutrongchuoi.pdb
+E:\solanxuathienkytutrongchuoi\obj\Debug\net8.0\solanxuathienkytutrongchuoi.GeneratedMSBuildEditorConfig.editorconfig
+E:\solanxuathienkytutrongchuoi\obj\Debug\net8.0\solanxuathienkytutrongchuoi.AssemblyInfoInputs.cache
+E:\solanxuathienkytutrongchuoi\obj\Debug\net8.0\solanxuathienkytutrongchuoi.AssemblyInfo.cs
+E:\solanxuathienkytutrongchuoi\obj\Debug\net8.0\solanxuathienkytutrongchuoi.csproj.CoreCompileInputs.cache
+E:\solanxuathienkytutrongchuoi\obj\Debug\net8.0\solanxuathienkytutrongchuoi.dll
+E:\solanxuathienkytutrongchuoi\obj\Debug\net8.0\refint\solanxuathienkytutrongchuoi.dll
+E:\solanxuathienkytutrongchuoi\obj\Debug\net8.0\solanxuathienkytutrongchuoi.pdb
+E:\solanxuathienkytutrongchuoi\obj\Debug\net8.0\solanxuathienkytutrongchuoi.genruntimeconfig.cache
+E:\solanxuathienkytutrongchuoi\obj\Debug\net8.0\ref\solanxuathienkytutrongchuoi.dll
